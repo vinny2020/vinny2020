@@ -9,7 +9,7 @@ I’ve spent most of my career working in backend and platform roles across Java
 - Pragmatic use of AI to improve developer productivity
 
 ### Tech I work with
-Java • Kotlin • C# • Python • REST / Graph APIs • Cloud-native systems
+Java • C# • Python • REST / Graph APIs • Cloud-native systems
 
 📍 Atlanta  
 🔗 LinkedIn: https://www.linkedin.com/in/vincentstoessel
