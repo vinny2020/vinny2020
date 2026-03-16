@@ -4,7 +4,7 @@ Senior Software Engineer at [Backbase](https://backbase.com) building AI-powered
 15+ years across cloud-native platform engineering, backend systems, and distributed architecture.
 Previously at Microsoft (Defender for Threat Intelligence) and Cox Automotive.
 
-Chair of [DevNexus](https://devnexus.com) — the largest Java conference in the US — for 12 years.
+Former [DevNexus](https://devnexus.com) Chair — the largest Java conference in the US — for 12 years.
 
 ---
 
@@ -30,7 +30,7 @@ My software consulting brand focused on AI-assisted development workflows.
 | **Claude** (claude.ai + Desktop) | Architecture, code review, system design, writing |
 | **Claude Code** | Agentic coding — scaffolding, feature builds, refactors |
 | **Cursor** | Day-to-day editor with inline AI completions |
-| **GitHub Copilot** | Pair programming in VS Code / IntelliJ |
+| **GitHub Copilot** | Pair programming in IntelliJ |
 | **Gemini** | Research, cross-model validation |
 
 My workflow: use Claude to think and design → Claude Code to build → Cursor to refine.
