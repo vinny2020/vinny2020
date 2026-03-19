@@ -10,12 +10,12 @@ Former [DevNexus](https://devnexus.com) Chair — the largest Java conference in
 
 ### What I'm building
 
-#### 🟦 SIT — Stay in Touch
+#### 🟦 Ticklr — Your People Matter
 A privacy-first iOS + Android personal network manager. No cloud. No social graph. Just your contacts, a tickle calendar to stay in rhythm with people you care about, and native SMS/MMS.
 
 - **iOS**: Swift 6 · SwiftUI · SwiftData
 - **Android**: Kotlin · Jetpack Compose · Room
-- **Monorepo**: [`sit-stay-in-touch`](https://github.com/vinny2020/sit-stay-in-touch)
+- **Monorepo**: [`ticklr`](https://github.com/vinny2020/ticklr)
 - Built end-to-end with AI-assisted development in a single session
 
 #### 🌴 Xaymaca — Build Smarter with AI
