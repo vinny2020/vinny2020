@@ -4,7 +4,7 @@ Senior Software Engineer at [Backbase](https://backbase.com) building AI-powered
 15+ years across cloud-native platform engineering, backend systems, and distributed architecture.
 Previously at Microsoft (Defender for Threat Intelligence) and Cox Automotive.
 
-Former Board Member:  [DevNexus](https://devnexus.com) Chair — the largest Java conference in the US — for 12 years.
+Former Atlanta Java User Group Board Member:  [DevNexus](https://devnexus.com) Chair — the largest Java conference in the US — for 12 years.
 
 ---
 
