@@ -59,4 +59,4 @@ My workflow: use Claude to think and design → Claude Code to build → Cursor 
 📍 Atlanta, GA  
 🌴 [xaymaca.com](https://xaymaca.com) — Build Smarter with AI  
 🔗 [linkedin.com/in/vincentstoessel](https://www.linkedin.com/in/vincentstoessel)  
-☕ Chair, [DevNexus](https://devnexus.com)
+☕ Former Atlanta Java User Group Board Member, [DevNexus](https://devnexus.com) Chair
