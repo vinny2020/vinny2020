@@ -15,7 +15,7 @@ A privacy-first iOS + Android personal network manager. No cloud. No social grap
 
 - **iOS**: Swift 6 · SwiftUI · SwiftData
 - **Android**: Kotlin · Jetpack Compose · Room
-- **Monorepo**: [`ticklr`](https://github.com/vinny2020/ticklr)
+- **Monorepo**: [`Ticklr`](https://github.com/vinny2020/ticklr)
 - Built end-to-end with AI-assisted development in a single session
 
 #### 🌴 Xaymaca — Build Smarter with AI
